@@ -7,7 +7,9 @@ This is a subscription app built upon Micro-service architecture.The app lets us
 
 
 ## Screenshots
+![Screenshot (82)](https://github.com/abdul-09/subscription-microservice/assets/114946911/cf539449-08ea-4cf1-9988-13c585ace580)
 
+![Screenshot (81)](https://github.com/abdul-09/subscription-microservice/assets/114946911/02531411-f4a5-40d8-a12c-1f41ac6a2362)
 
 
 ## Installation
