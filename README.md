@@ -1,6 +1,6 @@
 
 
-# E-commerce project
+# Micro-Service project
 ## Introduction
 This is a subscription app built upon Micro-service architecture.The app lets users to subscribe and get the magazines delivered to there specified address.The app is cached, dockerized and celery driven.
 
